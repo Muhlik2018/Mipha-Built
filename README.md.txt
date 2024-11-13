@@ -1,0 +1,1 @@
+Please copy your gpt api key to  Resources/Credential/GPTApi.txt
